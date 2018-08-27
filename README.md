@@ -59,23 +59,23 @@ A curated list of awesome softwares for Devops.
 * [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor for MacOS, Linux, and Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub.
 
 ## Documents
-* [Confluence]() - 
-* [Dokuwiki]() -
+* [Confluence](https://www.atlassian.com/software/confluence) - Confluence is where you create, organize and discuss work with your team.
+* [Dokuwiki](https://www.dokuwiki.org/) - DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database.
 
 ## Conmunication
-* [Slack]() -
-* [Dingding]() -
+* [Slack](https://slack.com/) - Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.
+* [Dingtalk](https://www.dingtalk.com/) - DingTalk is a free and all-in-one enterprise communication and collaboration platform. Powered by Alibaba Group, DingTalk's powerful functions like organization contacts, one-touch conference call, mobile approval, Attendance and more powerful functions, helping  7M organizations globally to build a simple, efficient, and secure workplace.
 
 ## Api Manager
-* [Postman]() - 
-* [Charles]() - 
+* [Postman](https://www.getpostman.com/) - Postman is the only complete API development environment, for API developers, used by more than 5 million developers and 100000 companies worldwide.
+* [Charles](https://www.charlesproxy.com/) - Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 * [AWS Api Gateway]() -
 
 ## Monitor
-* [Zabbix]() - 
-* [influxdb]() -
-* [Gafana]() - 
-* [Prometheus]() -
+* [Zabbix](https://www.zabbix.com/) - Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+* [Influxdb](https://www.influxdata.com/) - Open Source Time Series DB Platform for Metrics & Events (Time Series Data).
+* [Grafana](https://grafana.com/) - Data visualization & Monitoring with support for Graphite, InfluxDB, Prometheus, Elasticsearch and many more databases.
+* [Prometheus](https://prometheus.io/) - An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
 
 ## Application Definition
 * [Maven](https://maven.apache.org/) - Apache Maven is a software project management and comprehension tool.
