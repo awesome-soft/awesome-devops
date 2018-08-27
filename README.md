@@ -99,7 +99,7 @@ A curated list of awesome softwares for Devops.
 ## Cloud
 * [OpenStack](https://www.openstack.org/) - OpenStack software controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API.
 * [AWS](https://aws.amazon.com/) - Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.
-* [Aliyun](https://www.alibabacloud.com/) -Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices. Try for Free.
+* [Alibabacloud](https://www.alibabacloud.com/) - Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices. Try for Free.
 * [Microsoft Azure](https://azure.microsoft.com/en-us/) - Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform. Move faster, do more, and save money with IaaS + PaaS. Try for FREE.
 * [Google Cloud Platform](https://cloud.google.com/) - Build, innovate, and scale with Google Cloud Platform. Collaborate and be more productive with G Suite. See what's possible with Google Cloud.
 
