@@ -31,12 +31,12 @@ A curated list of awesome softwares for Devops.
 
 ## CI
 * [Jenkins](https://jenkins.io/) - Jenkins is a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Mac OS X and other Unix-like operating systems.
-* [Gitlab-ci]() - 
+* [Gitlab-ci](https://about.gitlab.com/features/gitlab-ci-cd/) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code.
 * [Shippable](https://www.shippable.com/) - CI, CD, and DevOps automation platform with Docker support that simplifies provisioning, building, testing, and deploying any application anywhere.
 * [CodePipeline]() -
 * [Bamboo](https://www.atlassian.com/software/bamboo) - Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.
-* [deployer]() -
-* [wali]() -
+* [Deployer](https://deployer.org/) - A deployment tool written in PHP with support for popular frameworks out of the box.
+* [Walle](http://www.walle-web.io/) - Stable online support for multi-project, multi-environment one-click deployment on-line, one-click quick rollback clear record online application, review, deployment, real-time operation log.
 * [AWS CodePipeline]() -
 * [AWS CodeDeploy]() - 
 
@@ -63,10 +63,12 @@ A curated list of awesome softwares for Devops.
 ## Documents
 * [Confluence](https://www.atlassian.com/software/confluence) - Confluence is where you create, organize and discuss work with your team.
 * [Dokuwiki](https://www.dokuwiki.org/) - DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database.
+* [Shimo](https://shimo.im/) - Cloud documents and forms that can be collaborated by multiple people in real time.
+* [Google Drive](https://www.google.com/drive/) - Get access to files anywhere through secure cloud storage and file backup for your photos, videos, files and more with Google Drive.
 
 ## Conmunication
 * [Slack](https://slack.com/) - Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.
-* [Dingtalk](https://www.dingtalk.com/) - DingTalk is a free and all-in-one enterprise communication and collaboration platform. Powered by Alibaba Group, DingTalk's powerful functions like organization contacts, one-touch conference call, mobile approval, Attendance and more powerful functions, helping  7M organizations globally to build a simple, efficient, and secure workplace.
+* [Dingtalk](https://www.dingtalk.com/) - DingTalk is a free and all-in-one enterprise communication and collaboration platform.
 
 ## Api Manager
 * [Postman](https://www.getpostman.com/) - Postman is the only complete API development environment, for API developers, used by more than 5 million developers and 100000 companies worldwide.
@@ -96,10 +98,10 @@ A curated list of awesome softwares for Devops.
 
 ## Cloud
 * [OpenStack](https://www.openstack.org/) - OpenStack software controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API.
-* [AWS]() - 
-* [Alyun]() - 
-* [Microsoft Azure]() - 
-* [Google Cloud Platform]() - 
+* [AWS](https://aws.amazon.com/) - Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.
+* [Aliyun](https://www.alibabacloud.com/) -Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices. Try for Free.
+* [Microsoft Azure](https://azure.microsoft.com/en-us/) - Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform. Move faster, do more, and save money with IaaS + PaaS. Try for FREE.
+* [Google Cloud Platform](https://cloud.google.com/) - Build, innovate, and scale with Google Cloud Platform. Collaborate and be more productive with G Suite. See what's possible with Google Cloud.
 
 ## Logging
 * [Elasticsearch](https://www.elastic.co/) - Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases.
@@ -142,4 +144,4 @@ A curated list of awesome softwares for Devops.
 * [Juju](https://jujucharms.com/) - Juju is an open source, application and service modelling tool from Ubuntu that helps you deploy, manage and scale your applications on any cloud.
 * [Trello](https://trello.com/) -  Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details.
 * [静态代码检查]() -
-* [swoole compire]() - 
+* [Swoole-Compiler](http://compiler.swoole.com/) - Compile the PHP program source code into binary instructions and encrypt them. 
