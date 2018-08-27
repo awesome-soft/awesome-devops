@@ -37,6 +37,8 @@ A curated list of awesome softwares for Devops.
 * [Bamboo](https://www.atlassian.com/software/bamboo) - Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.
 * [deployer]() -
 * [wali]() -
+* [AWS CodePipeline]() -
+* [AWS CodeDeploy]() - 
 
 ## Container
 * [Docker](https://www.docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
@@ -80,6 +82,7 @@ A curated list of awesome softwares for Devops.
 ## Application Definition
 * [Maven](https://maven.apache.org/) - Apache Maven is a software project management and comprehension tool.
 * [Gradle](https://gradle.org/) - Accelerate developer productivity. Gradle helps teams build, automate and deliver better software, faster.
+* [AWS CodeBuild]() - 
   
 ## Configure
 * [Ansible](https://www.ansible.com/) - Ansible is the simplest way to automate apps and IT infrastructure. Application Deployment + Configuration Management + Continuous Delivery.
