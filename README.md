@@ -24,21 +24,21 @@ A curated list of awesome softwares for Devops.
     - [other](#other)
   
 ## SCM
-* [Git]() - 
+* [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [Github](https://github.com/) - The world's leading software development platform.
-* [Gitlab]() - 
+* [Gitlab](https://about.gitlab.com/) - GitLab is a web-based Git-repository manager with wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.
 * [Mercurial](https://www.mercurial-scm.org/) - Work easier. Work faster. Mercurial is a free, distributed source control management tool. 
+* [Gogs](https://gogs.io/) - A painless self-hosted Git service.
 
 ## CI
 * [Jenkins](https://jenkins.io/) - Jenkins is a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Mac OS X and other Unix-like operating systems.
 * [Gitlab-ci](https://about.gitlab.com/features/gitlab-ci-cd/) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code.
 * [Shippable](https://www.shippable.com/) - CI, CD, and DevOps automation platform with Docker support that simplifies provisioning, building, testing, and deploying any application anywhere.
-* [CodePipeline]() -
 * [Bamboo](https://www.atlassian.com/software/bamboo) - Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.
 * [Deployer](https://deployer.org/) - A deployment tool written in PHP with support for popular frameworks out of the box.
 * [Walle](http://www.walle-web.io/) - Stable online support for multi-project, multi-environment one-click deployment on-line, one-click quick rollback clear record online application, review, deployment, real-time operation log.
-* [AWS CodePipeline]() -
-* [AWS CodeDeploy]() - 
+* [AWS CodePipeline](https://aws.amazon.com/codepipeline/) - AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software.
+* [AWS CodeDeploy](https://aws.amazon.com/codedeploy/) - AWS CodeDeploy is a deployment service that automates application deployments to Amazon EC2 instances, on-premises instances, or serverless Lambda functions.
 
 ## Container
 * [Docker](https://www.docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
@@ -117,7 +117,7 @@ A curated list of awesome softwares for Devops.
 * [gRPC](https://grpc.io/) - A high-performance, open-source universal RPC framework.
 * [Nginx](https://www.nginx.com/) - NGINX accelerates content and application delivery, improves security, facilitates availability and scalability for the busiest web sites on the Internet.
 * [Istio](https://istio.io/) - Connect, secure, control, and observe services.
-* [Enovy](https://www.linkedin.com/company/enovy) - 
+* [Enovy](https://www.envoyproxy.io/) - Envoy is an open source edge and service proxy, designed for cloud-native applications.
 * [Spring Cloud](http://cloud.spring.io/) - Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems.
 
 ## Bench Test
