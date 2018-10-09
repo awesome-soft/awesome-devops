@@ -73,7 +73,7 @@ A curated list of awesome softwares for Devops.
 ## Api Manager
 * [Postman](https://www.getpostman.com/) - Postman is the only complete API development environment, for API developers, used by more than 5 million developers and 100000 companies worldwide.
 * [Charles](https://www.charlesproxy.com/) - Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
-* [AWS Api Gateway]() -
+* [AWS Api Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 
 ## Monitor
 * [Zabbix](https://www.zabbix.com/) - Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
@@ -84,7 +84,7 @@ A curated list of awesome softwares for Devops.
 ## Application Definition
 * [Maven](https://maven.apache.org/) - Apache Maven is a software project management and comprehension tool.
 * [Gradle](https://gradle.org/) - Accelerate developer productivity. Gradle helps teams build, automate and deliver better software, faster.
-* [AWS CodeBuild]() - 
+* [AWS CodeBuild](https://aws.amazon.com/codebuild/) - AWS CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy.
   
 ## Configure
 * [Ansible](https://www.ansible.com/) - Ansible is the simplest way to automate apps and IT infrastructure. Application Deployment + Configuration Management + Continuous Delivery.
@@ -129,10 +129,9 @@ A curated list of awesome softwares for Devops.
 * [Teambition](https://www.teambition.com/) - Teambition is a simple, efficient project collaboration tool where you can manage projects, track progress, store project files, and make your team work more efficient.
 
 ## other
-* [SPLUNK](https://www.splunk.com/) - Splunk Inc. turns machine data into answers with the leading platform to tackle the toughest IT, IoT and security challenges. Use Splunk to search, monitor, analyze and visualize machine data.
-* [NAGIOS](https://www.nagios.org/) - Nagios provides enterprise-class Open Source IT monitoring, network monitoring, server and applications monitoring.
-* [SELENIUM]() -
-* [Monit]() -
+* [Splunk](https://www.splunk.com/) - Splunk Inc. turns machine data into answers with the leading platform to tackle the toughest IT, IoT and security challenges. Use Splunk to search, monitor, analyze and visualize machine data.
+* [Nagios](https://www.nagios.org/) - Nagios provides enterprise-class Open Source IT monitoring, network monitoring, server and applications monitoring.
+* [Monit](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-monit) - Monit is a helpful program that automatically monitors and manages server programs to ensure that they not only stay online consistently, but that the file size, checksum, or permissions are always correct.
 * [Hipchat](https://www.hipchat.com/) -HipChat was a web service for internal private online chat and instant messaging.
 * [Bitbucket](https://bitbucket.org/) - Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team.
 * [Datadog](https://www.datadoghq.com/) - Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.
