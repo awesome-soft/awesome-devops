@@ -146,7 +146,7 @@ A curated list of awesome softwares for Devops.
 * [Nagios](https://www.nagios.org/) - Nagios provides enterprise-class Open Source IT monitoring, network monitoring, server and applications monitoring.
 * [Monit](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-monit) - Monit is a helpful program that automatically monitors and manages server programs to ensure that they not only stay online consistently, but that the file size, checksum, or permissions are always correct.
 * [Supervisor](http://supervisord.org/) - Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
-* [Hipchat](https://www.hipchat.com/) -HipChat was a web service for internal private online chat and instant messaging.
+* [Hipchat](https://www.hipchat.com/) - HipChat was a web service for internal private online chat and instant messaging.
 * [Bitbucket](https://bitbucket.org/) - Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team.
 * [Datadog](https://www.datadoghq.com/) - Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.
 * [Statuspage](https://www.statuspage.io/) - StatusPage.io is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very own status page in minutes.
