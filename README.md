@@ -126,7 +126,15 @@ A curated list of awesome softwares for Devops.
 * [Spring Cloud](http://cloud.spring.io/) - Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems.
 
 ## Bench Test
+* [AB](https://httpd.apache.org/docs/2.4/programs/ab.html) - ab is a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server.
 * [JMeter](https://jmeter.apache.org/) - The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
+* [LoadRunner](https://software.microfocus.com/en-us/products/loadrunner-load-testing/overview) - LoadRunner is a software testing tool from Micro Focus. It is used to test applications, measuring system behaviour and performance under load. LoadRunner can simulate thousands of users concurrently using application software, recording and later analyzing the performance of key components of the application.
+* [TCPCopy](https://github.com/session-replay-tools/tcpcopy) - TCPCopy is a TCP stream replay tool to support real testing of Internet server applications.
+* [Siege](https://www.joedog.org/siege-home/) - Siege is an http load testing and benchmarking utility. 
+* [Tsung](http://tsung.erlang-projects.org/) - Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.
+* [Wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool. 
+* [Web Bench](http://home.tiscali.cz/~cz210552/webbench.html) - Web Bench is very simple tool for benchmarking WWW or proxy servers. 
+* [Http_load](https://acme.com/software/http_load/) - http_load runs multiple http fetches in parallel, to test the throughput of a web server.
 
 ## PM
 * [Jira](https://www.atlassian.com/software/jira) - Plan, track, and manage your agile and software development projects in Jira. Customize your workflow, collaborate, and release great software.
