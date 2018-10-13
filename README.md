@@ -11,6 +11,7 @@ A curated list of awesome softwares for Devops.
     - [Documents](#documents)
     - [Conmunication](#conmunication)
     - [Api Manager](#api-manager)
+    - [Storage](#storage)
     - [Monitor](#monitor)
     - [Application Definition](#application-definition)
     - [Configure](#configure)
@@ -74,6 +75,10 @@ A curated list of awesome softwares for Devops.
 * [Postman](https://www.getpostman.com/) - Postman is the only complete API development environment, for API developers, used by more than 5 million developers and 100000 companies worldwide.
 * [Charles](https://www.charlesproxy.com/) - Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 * [AWS Api Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+
+## Storage
+* [OwnCloud](https://owncloud.org/) - The leading OpenSource Cloud Collaboration Platform, free and open-source.
+* [Dropbox](https://www.dropbox.com/) - Dropbox is a home for all your work. You can store and share files, collaborate on projects.
 
 ## Monitor
 * [Zabbix](https://www.zabbix.com/) - Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
