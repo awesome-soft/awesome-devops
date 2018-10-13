@@ -22,7 +22,7 @@ A curated list of awesome softwares for Devops.
     - [Service Management](#service-management)
     - [Bench Test](#bench-test)
     - [PM](#pm)
-    - [other](#other)
+    - [Other](#other)
   
 ## SCM
 * [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
@@ -141,7 +141,7 @@ A curated list of awesome softwares for Devops.
 * [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 * [Teambition](https://www.teambition.com/) - Teambition is a simple, efficient project collaboration tool where you can manage projects, track progress, store project files, and make your team work more efficient.
 
-## other
+## Other
 * [Splunk](https://www.splunk.com/) - Splunk Inc. turns machine data into answers with the leading platform to tackle the toughest IT, IoT and security challenges. Use Splunk to search, monitor, analyze and visualize machine data.
 * [Nagios](https://www.nagios.org/) - Nagios provides enterprise-class Open Source IT monitoring, network monitoring, server and applications monitoring.
 * [Monit](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-monit) - Monit is a helpful program that automatically monitors and manages server programs to ensure that they not only stay online consistently, but that the file size, checksum, or permissions are always correct.
