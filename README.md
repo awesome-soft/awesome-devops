@@ -145,6 +145,7 @@ A curated list of awesome softwares for Devops.
 * [Splunk](https://www.splunk.com/) - Splunk Inc. turns machine data into answers with the leading platform to tackle the toughest IT, IoT and security challenges. Use Splunk to search, monitor, analyze and visualize machine data.
 * [Nagios](https://www.nagios.org/) - Nagios provides enterprise-class Open Source IT monitoring, network monitoring, server and applications monitoring.
 * [Monit](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-monit) - Monit is a helpful program that automatically monitors and manages server programs to ensure that they not only stay online consistently, but that the file size, checksum, or permissions are always correct.
+* [Supervisor](http://supervisord.org/) - Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
 * [Hipchat](https://www.hipchat.com/) -HipChat was a web service for internal private online chat and instant messaging.
 * [Bitbucket](https://bitbucket.org/) - Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team.
 * [Datadog](https://www.datadoghq.com/) - Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.
@@ -152,7 +153,6 @@ A curated list of awesome softwares for Devops.
 * [Pendo](https://www.pendo.io/) - Pendo helps product teams understand and guide users to create product experiences that customers love.
 * [Vagrant](https://www.vagrantup.com/) - Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.
 * [PagerDuty](https://www.pagerduty.com/) - PagerDuty is a cloud computing company that produces a SaaS incident response platform for IT departments.
-* [Supervisor](http://supervisord.org/) - Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
 * [Juju](https://jujucharms.com/) - Juju is an open source, application and service modelling tool from Ubuntu that helps you deploy, manage and scale your applications on any cloud.
 * [Trello](https://trello.com/) -  Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details.
 * [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer is a set of two PHP scripts; the main phpcs script that tokenizes PHP, JavaScript and CSS files to detect violations of a defined coding standard, and a second phpcbf script to automatically correct coding standard violations.
