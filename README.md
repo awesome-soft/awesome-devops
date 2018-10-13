@@ -7,7 +7,7 @@ A curated list of awesome softwares for Devops.
     - [SCM](#scm)
     - [CI](#ci)
     - [Container](#container)
-    - [IDE](#ide)
+    - [IDE & Editor](#ide--editor)
     - [Documents](#documents)
     - [Conmunication](#conmunication)
     - [Api Manager](#api-manager)
@@ -47,7 +47,7 @@ A curated list of awesome softwares for Devops.
 * [Mesos](http://mesos.apache.org/) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 * [Swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system.
 
-## IDE
+## IDE & Editor
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 * [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code is a lightweight but powerful source code editor.
 * [Eclipse](https://www.eclipse.org/) - Eclipse is a platform that has been designed from the ground up for building integrated web and application development tooling.
@@ -60,6 +60,9 @@ A curated list of awesome softwares for Devops.
 * [Xcode](https://developer.apple.com/xcode/) - Xcode 10 includes everything you need to create amazing apps for all Apple platforms.
 * [LiteIDE](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 * [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor for MacOS, Linux, and Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub.
+* [Typora](https://typora.io/) - A markdown editor, markdown reader.
+* [MWeb](https://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App.
+* [MacDown](http://macdown.uranusjr.com/) - Markdown editor.
 
 ## Documents
 * [Confluence](https://www.atlassian.com/software/confluence) - Confluence is where you create, organize and discuss work with your team.
