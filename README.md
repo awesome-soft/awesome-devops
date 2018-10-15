@@ -47,6 +47,7 @@ A curated list of awesome softwares for Devops.
 * [Mesos](http://mesos.apache.org/) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 * [Swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system.
 * [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
+* [Docker Michine](https://github.com/docker/machine) - Docker Machine is a tool that lets you install Docker Engine on virtual hosts, and manage the hosts with docker-machine commands.
 
 ## IDE & Editor
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
