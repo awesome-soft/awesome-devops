@@ -48,6 +48,7 @@ A curated list of awesome softwares for Devops.
 * [Swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system.
 * [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
 * [Docker Michine](https://github.com/docker/machine) - Docker Machine is a tool that lets you install Docker Engine on virtual hosts, and manage the hosts with docker-machine commands.
+* [Portainer](https://github.com/portainer/portainer) - Simple management UI for Docker http://portainer.io 
 
 ## IDE & Editor
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
