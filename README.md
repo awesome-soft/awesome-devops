@@ -22,7 +22,7 @@ A curated list of awesome softwares for Devops.
     - [Service Management](#service-management)
     - [Bench Test](#bench-test)
     - [PM](#pm)
-    - [Other](#other)
+    - [Others](#others)
   
 ## SCM
 * [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
