@@ -40,6 +40,7 @@ A curated list of awesome softwares for Devops.
 * [Walle](http://www.walle-web.io/) - Stable online support for multi-project, multi-environment one-click deployment on-line, one-click quick rollback clear record online application, review, deployment, real-time operation log.
 * [AWS CodePipeline](https://aws.amazon.com/codepipeline/) - AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software.
 * [AWS CodeDeploy](https://aws.amazon.com/codedeploy/) - AWS CodeDeploy is a deployment service that automates application deployments to Amazon EC2 instances, on-premises instances, or serverless Lambda functions.
+* [Drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go.
 
 ## Container
 * [Docker](https://www.docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
