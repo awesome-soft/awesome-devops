@@ -83,6 +83,8 @@ A curated list of awesome softwares for Devops.
 * [Postman](https://www.getpostman.com/) - Postman is the only complete API development environment, for API developers, used by more than 5 million developers and 100000 companies worldwide.
 * [Charles](https://www.charlesproxy.com/) - Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 * [AWS Api Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+* [Apiary](https://apiary.io/) - Platform for API Design, Development & Documentation.
+* [Swagger](https://swagger.io/) - Swagger aides in development across the entire API lifecycle, from design and documentation, to test and deployment.
 
 ## Storage
 * [OwnCloud](https://owncloud.org/) - The leading OpenSource Cloud Collaboration Platform, free and open-source.
