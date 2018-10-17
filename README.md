@@ -50,6 +50,7 @@ A curated list of awesome softwares for Devops.
 * [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
 * [Docker Michine](https://github.com/docker/machine) - Docker Machine is a tool that lets you install Docker Engine on virtual hosts, and manage the hosts with docker-machine commands.
 * [Portainer](https://github.com/portainer/portainer) - Simple management UI for Docker http://portainer.io 
+* [Docker Registry](https://docs.docker.com/registry/) - Docker Trusted Registry (DTR) is a commercial product that enables complete image management workflow, featuring LDAP integration, image signing, security scanning, and integration with Universal Control Plane. 
 
 ## IDE & Editor
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
