@@ -5,7 +5,7 @@ A curated list of awesome softwares for Devops.
 - [awesome-devops](#awesome-devops)
         - [Toc](#toc)
     - [SCM](#scm)
-    - [CI](#ci)
+    - [CI & CD](#ci--cd)
     - [Container](#container)
     - [IDE & Editor](#ide--editor)
     - [Documents](#documents)
@@ -31,7 +31,7 @@ A curated list of awesome softwares for Devops.
 * [Mercurial](https://www.mercurial-scm.org/) - Work easier. Work faster. Mercurial is a free, distributed source control management tool. 
 * [Gogs](https://gogs.io/) - A painless self-hosted Git service.
 
-## CI
+## CI & CD
 * [Jenkins](https://jenkins.io/) - Jenkins is a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Mac OS X and other Unix-like operating systems.
 * [Gitlab-ci](https://about.gitlab.com/features/gitlab-ci-cd/) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code.
 * [Shippable](https://www.shippable.com/) - CI, CD, and DevOps automation platform with Docker support that simplifies provisioning, building, testing, and deploying any application anywhere.
