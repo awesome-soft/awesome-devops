@@ -94,7 +94,7 @@ A curated list of awesome softwares for Devops.
 * [Qiniu kodo](https://www.qiniu.com/en/products/kodo) - Qiniu Cloud's object storage (KODO), a completely independent-researched core technology which is proven by repeated customer experience has occupied absolute leading market leader position. KODO can be widely applied to mass data management.
 
 ## Image Storage Service
-* [Qiniu](https://www.qiniu.com/en)
+* [Qiniu](https://www.qiniu.com/en) - Qiniu image processing service does various operations for image files on Qiniu Cloud.
 * [ImgURL](https://github.com/helloxz/imgurl) - ImgURL is a simple, pure bed program developed with PHP + SQLite 3 that does not require complex configuration and works out of the box.
 
 ## Monitor
