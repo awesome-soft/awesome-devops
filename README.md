@@ -125,6 +125,7 @@ A curated list of awesome softwares for Devops.
 * [Microsoft Azure](https://azure.microsoft.com/en-us/) - Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform. Move faster, do more, and save money with IaaS + PaaS. Try for FREE.
 * [Google Cloud Platform](https://cloud.google.com/) - Build, innovate, and scale with Google Cloud Platform. Collaborate and be more productive with G Suite. See what's possible with Google Cloud.
 * [Tencent Cloud](https://intl.cloud.tencent.com/) - Empower your business with our high-performance cloud services.
+* [Huawei Cloud](https://intl.huaweicloud.com/) - Comprehensive Range of Cloud Computing Services.
 
 ## Logging
 * [Elasticsearch](https://www.elastic.co/) - Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases.
