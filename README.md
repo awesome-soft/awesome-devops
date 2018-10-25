@@ -124,6 +124,7 @@ A curated list of awesome softwares for Devops.
 * [Alibabacloud](https://www.alibabacloud.com/) - Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices. Try for Free.
 * [Microsoft Azure](https://azure.microsoft.com/en-us/) - Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform. Move faster, do more, and save money with IaaS + PaaS. Try for FREE.
 * [Google Cloud Platform](https://cloud.google.com/) - Build, innovate, and scale with Google Cloud Platform. Collaborate and be more productive with G Suite. See what's possible with Google Cloud.
+* [Tencent Cloud](https://intl.cloud.tencent.com/) - Empower your business with our high-performance cloud services.
 
 ## Logging
 * [Elasticsearch](https://www.elastic.co/) - Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases.
