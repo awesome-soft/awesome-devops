@@ -12,6 +12,7 @@ A curated list of awesome softwares for Devops.
     - [Conmunication](#conmunication)
     - [Api Manager](#api-manager)
     - [Storage](#storage)
+    - [Image Storage Service](#image--storage--service)
     - [Monitor](#monitor)
     - [Application Definition](#application-definition)
     - [Configure](#configure)
@@ -89,6 +90,12 @@ A curated list of awesome softwares for Devops.
 ## Storage
 * [OwnCloud](https://owncloud.org/) - The leading OpenSource Cloud Collaboration Platform, free and open-source.
 * [Dropbox](https://www.dropbox.com/) - Dropbox is a home for all your work. You can store and share files, collaborate on projects.
+* [AWS S3](https://aws.amazon.com/s3/) - Object storage built to store and retrieve any amount of data from anywhere.
+* [Qiniu kodo](https://www.qiniu.com/en/products/kodo) - Qiniu Cloud's object storage (KODO), a completely independent-researched core technology which is proven by repeated customer experience has occupied absolute leading market leader position. KODO can be widely applied to mass data management.
+
+## Image Storage Service
+* [Qiniu](https://www.qiniu.com/en)
+* [ImgURL](https://github.com/helloxz/imgurl) - ImgURL is a simple, pure bed program developed with PHP + SQLite 3 that does not require complex configuration and works out of the box.
 
 ## Monitor
 * [Zabbix](https://www.zabbix.com/) - Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
