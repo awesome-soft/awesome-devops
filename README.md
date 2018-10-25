@@ -12,7 +12,7 @@ A curated list of awesome softwares for Devops.
     - [Conmunication](#conmunication)
     - [Api Manager](#api-manager)
     - [Storage](#storage)
-    - [Image Storage Service](#image--storage--service)
+    - [Image Storage Service](#image-storage-service)
     - [Monitor](#monitor)
     - [Application Definition](#application-definition)
     - [Configure](#configure)
