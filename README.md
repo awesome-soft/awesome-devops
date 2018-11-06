@@ -159,6 +159,7 @@ A curated list of awesome softwares for Devops.
 * [Jira](https://www.atlassian.com/software/jira) - Plan, track, and manage your agile and software development projects in Jira. Customize your workflow, collaborate, and release great software.
 * [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 * [Teambition](https://www.teambition.com/) - Teambition is a simple, efficient project collaboration tool where you can manage projects, track progress, store project files, and make your team work more efficient.
+* [Trello](https://trello.com/) - Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details.
 
 ## Others
 * [Splunk](https://www.splunk.com/) - Splunk Inc. turns machine data into answers with the leading platform to tackle the toughest IT, IoT and security challenges. Use Splunk to search, monitor, analyze and visualize machine data.
