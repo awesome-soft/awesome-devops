@@ -174,6 +174,5 @@ A curated list of awesome softwares for Devops.
 * [Vagrant](https://www.vagrantup.com/) - Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.
 * [PagerDuty](https://www.pagerduty.com/) - PagerDuty is a cloud computing company that produces a SaaS incident response platform for IT departments.
 * [Juju](https://jujucharms.com/) - Juju is an open source, application and service modelling tool from Ubuntu that helps you deploy, manage and scale your applications on any cloud.
-* [Trello](https://trello.com/) -  Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details.
 * [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer is a set of two PHP scripts; the main phpcs script that tokenizes PHP, JavaScript and CSS files to detect violations of a defined coding standard, and a second phpcbf script to automatically correct coding standard violations.
 * [Swoole-Compiler](http://compiler.swoole.com/) - Compile the PHP program source code into binary instructions and encrypt them. 
