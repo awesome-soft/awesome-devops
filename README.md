@@ -131,6 +131,7 @@ A curated list of awesome softwares for Devops.
 * [Elasticsearch](https://www.elastic.co/) - Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases.
 * [LogStash](https://www.elastic.co/products/logstash) - Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite "stash."
 * [Kibana](https://www.elastic.co/products/kibana) - Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack.
+* [Graylog](https://www.graylog.org/) - Graylog is a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine data. We deliver a better user experience by making analysis ridiculously fast, efficient, cost-effective, and flexible.
 
 ## Service
 * [Zookeeper](https://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
