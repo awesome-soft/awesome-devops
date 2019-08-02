@@ -46,6 +46,7 @@ A curated list of awesome softwares for Devops.
 ## Container
 * [Docker](https://www.docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
 * [Kubernetes](https://kubernetes.io/) - Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+* [Rancher](https://rancher.com/) - Rancher is open source software that combines everything an organization needs to adopt and run containers in production. Built on Kubernetes, Rancher makes it easy for DevOps teams to test, deploy and manage their applications.
 * [Mesos](http://mesos.apache.org/) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 * [Swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system.
 * [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
