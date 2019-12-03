@@ -93,6 +93,7 @@ A curated list of awesome softwares for Devops.
 * [Dropbox](https://www.dropbox.com/) - Dropbox is a home for all your work. You can store and share files, collaborate on projects.
 * [AWS S3](https://aws.amazon.com/s3/) - Object storage built to store and retrieve any amount of data from anywhere.
 * [Qiniu kodo](https://www.qiniu.com/en/products/kodo) - Qiniu Cloud's object storage (KODO), a completely independent-researched core technology which is proven by repeated customer experience has occupied absolute leading market leader position. KODO can be widely applied to mass data management.
+* [Wasabi](https://wasabi.com/) - Simple, affordable, fast and secure cloud storage
 
 ## Image Storage Service
 * [Qiniu](https://www.qiniu.com/en) - Qiniu image processing service does various operations for image files on Qiniu Cloud.
