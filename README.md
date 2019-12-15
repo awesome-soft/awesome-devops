@@ -9,7 +9,7 @@ A curated list of awesome softwares for Devops.
     - [Container](#container)
     - [IDE & Editor](#ide--editor)
     - [Documents](#documents)
-    - [Conmunication](#conmunication)
+    - [Communication](#communication)
     - [Api Manager](#api-manager)
     - [Storage](#storage)
     - [Image Storage Service](#image-storage-service)
@@ -77,7 +77,7 @@ A curated list of awesome softwares for Devops.
 * [Shimo](https://shimo.im/) - Cloud documents and forms that can be collaborated by multiple people in real time.
 * [Google Drive](https://www.google.com/drive/) - Get access to files anywhere through secure cloud storage and file backup for your photos, videos, files and more with Google Drive.
 
-## Conmunication
+## Communication
 * [Slack](https://slack.com/) - Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.
 * [Dingtalk](https://www.dingtalk.com/) - DingTalk is a free and all-in-one enterprise communication and collaboration platform.
 
