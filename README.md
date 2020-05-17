@@ -126,6 +126,7 @@ A curated list of awesome softwares for Devops.
 
 * [Ansible](https://www.ansible.com/) - Ansible is the simplest way to automate apps and IT infrastructure. Application Deployment + Configuration Management + Continuous Delivery.
 * [Chef](https://www.chef.io/) - Automation for all of your technology. Overcome the complexity and rapidly ship your infrastructure and apps anywhere with automation.
+* [Microconfig](https://microconfig.io) - Modern and simple way of microservice configuration management, especially in the Cloud.
 * [Puppet](https://puppet.com/) - Automatically deliver and operate all of your software across its entire lifecycle — simply, securely and at scale — with Puppet's modern automation.
 * [Salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale.
 * [Rudder](https://www.rudder-project.org/) - Get the latest version of Rudder for your distribution: Get Rudder. Easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance.
