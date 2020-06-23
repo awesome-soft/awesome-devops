@@ -156,6 +156,7 @@ A curated list of awesome softwares for Devops.
 * [Zookeeper](https://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 * [Etcd](https://coreos.com/etcd/) - etcd is a distributed key value store that provides a reliable way to store data across a cluster of machines. It's open-source and available on GitHub.
 * [Consul](https://www.consul.io/) - Consul is a distributed service mesh to connect, secure, and configure services across any runtime platform and public or private cloud.
+* [ServerAuth](https://serverauth.com) - ServerAuth provided secure SSH access sync and management for multiple servers, with support for scheduled access per user.
 
 ## Service Management
 
