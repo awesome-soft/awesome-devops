@@ -46,6 +46,7 @@ A curated list of awesome softwares for Devops.
 * [AWS CodePipeline](https://aws.amazon.com/codepipeline/) - AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software.
 * [AWS CodeDeploy](https://aws.amazon.com/codedeploy/) - AWS CodeDeploy is a deployment service that automates application deployments to Amazon EC2 instances, on-premises instances, or serverless Lambda functions.
 * [Drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go.
+* [Humanitec](https://humanitec.com/) - Humanitec is a Continuous Delivery API for Kubernetes-ready applications.
 
 ## Container
 
