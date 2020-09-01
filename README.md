@@ -200,4 +200,7 @@ A curated list of awesome softwares for Devops.
 * [Juju](https://jujucharms.com/) - Juju is an open source, application and service modelling tool from Ubuntu that helps you deploy, manage and scale your applications on any cloud.
 * [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer is a set of two PHP scripts; the main phpcs script that tokenizes PHP, JavaScript and CSS files to detect violations of a defined coding standard, and a second phpcbf script to automatically correct coding standard violations.
 * [Swoole-Compiler](http://compiler.swoole.com/) - Compile the PHP program source code into binary instructions and encrypt them.
-* [Phpspy](https://github.com/adsr/phpspy) - Low-overhead sampling profiler for PHP 7
+* [Phpspy](https://github.com/adsr/phpspy) - Low-overhead sampling profiler for PHP 7.
+* [waifu2x](http://waifu2x.udp.jp/) - Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks.
+* [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
+* [CodeLF](https://unbug.github.io/) - Search over projects from GitHub, Bitbucket, GitLab to find real-world usage and variable names.
