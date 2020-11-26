@@ -8,6 +8,7 @@ A curated list of awesome softwares for Devops.
   * [Toc](#toc)
   * [SCM](#scm)
   * [CI & CD](#ci--cd)
+  * [Provisioning](#provisioning)
   * [Container](#container)
   * [IDE & Editor](#ide--editor)
   * [Documents](#documents)
@@ -46,6 +47,10 @@ A curated list of awesome softwares for Devops.
 * [AWS CodePipeline](https://aws.amazon.com/codepipeline/) - AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software.
 * [AWS CodeDeploy](https://aws.amazon.com/codedeploy/) - AWS CodeDeploy is a deployment service that automates application deployments to Amazon EC2 instances, on-premises instances, or serverless Lambda functions.
 * [Drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go.
+
+## Provisioning
+
+* [Scalr](https://scalr.com) - Scalr is a remote state & operations backend for Terraform with full CLI support, integration with OPA, a hierarchical configuration model, and quality of life features.
 
 ## Container
 
