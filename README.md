@@ -34,6 +34,7 @@ A curated list of awesome softwares for Devops.
 * [Gitlab](https://about.gitlab.com/) - GitLab is a web-based Git-repository manager with wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.
 * [Mercurial](https://www.mercurial-scm.org/) - Work easier. Work faster. Mercurial is a free, distributed source control management tool.
 * [Gogs](https://gogs.io/) - A painless self-hosted Git service.
+* [Gitea](https://gitea.io/en-us/) - Gitea - Git with a cup of tea. Fork of Gogs.
 
 ## CI & CD
 
