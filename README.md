@@ -114,6 +114,7 @@ A curated list of awesome softwares for Devops.
 
 ## Monitor
 
+* [Netdata](https://www.netdata.cloud/) - Netdata is a free monitoring solution with an open source agent that collects real-time metrics from your systems and applications, helping you monitor and troubleshoot them with ease.
 * [Zabbix](https://www.zabbix.com/) - Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
 * [Influxdb](https://www.influxdata.com/) - Open Source Time Series DB Platform for Metrics & Events (Time Series Data).
 * [Grafana](https://grafana.com/) - Data visualization & Monitoring with support for Graphite, InfluxDB, Prometheus, Elasticsearch and many more databases.
