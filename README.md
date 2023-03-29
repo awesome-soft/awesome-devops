@@ -187,6 +187,7 @@ A curated list of awesome softwares for Devops.
 * [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 * [Teambition](https://www.teambition.com/) - Teambition is a simple, efficient project collaboration tool where you can manage projects, track progress, store project files, and make your team work more efficient.
 * [Trello](https://trello.com/) - Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details.
+* [LineimKanban](https://kb.lineim.com) - It's free kanban, like trello, just support Chinese.
 
 ## Others
 
