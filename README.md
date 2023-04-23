@@ -170,7 +170,7 @@ A curated list of awesome softwares for Devops.
 * [gRPC](https://grpc.io/) - A high-performance, open-source universal RPC framework.
 * [Nginx](https://www.nginx.com/) - NGINX accelerates content and application delivery, improves security, facilitates availability and scalability for the busiest web sites on the Internet.
 * [Istio](https://istio.io/) - Connect, secure, control, and observe services.
-* [Enovy](https://www.envoyproxy.io/) - Envoy is an open source edge and service proxy, designed for cloud-native applications.
+* [Envoy](https://www.envoyproxy.io/) - Envoy is an open source edge and service proxy, designed for cloud-native applications.
 * [Spring Cloud](http://cloud.spring.io/) - Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems.
 * [Dubbo](https://dubbo.apache.org/en/) - Dubbo |ˈdʌbəʊ| offers six key functionalities, which include transparent interface based RPC, intelligent load balancing, automatic service registration and discovery, high extensibility, runtime traffic routing, and visualized service governance.
 
