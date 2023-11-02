@@ -79,6 +79,7 @@ A curated list of awesome softwares for Devops.
 * [Typora](https://typora.io/) - A markdown editor, markdown reader.
 * [MWeb](https://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App.
 * [MacDown](http://macdown.uranusjr.com/) - Markdown editor.
+* [CodeLobster](https://codelobster.com/) - A free cross-platform IDE with many plug-ins for all popular frameworks.
 
 ## Documents
 
