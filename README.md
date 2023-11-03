@@ -153,6 +153,8 @@ A curated list of awesome softwares for Devops.
 * [Google Cloud Platform](https://cloud.google.com/) - Build, innovate, and scale with Google Cloud Platform. Collaborate and be more productive with G Suite. See what's possible with Google Cloud.
 * [Tencent Cloud](https://intl.cloud.tencent.com/) - Empower your business with our high-performance cloud services.
 * [Huawei Cloud](https://intl.huaweicloud.com/) - Comprehensive Range of Cloud Computing Services.
+* [Kinsta](https://kinsta.com/application-hosting/) - Create and deploy web applications and databases in minutes.
+
 
 ## Logging
 
