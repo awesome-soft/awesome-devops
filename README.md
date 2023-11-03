@@ -48,6 +48,7 @@ A curated list of awesome softwares for Devops.
 * [AWS CodeDeploy](https://aws.amazon.com/codedeploy/) - AWS CodeDeploy is a deployment service that automates application deployments to Amazon EC2 instances, on-premises instances, or serverless Lambda functions.
 * [Drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go.
 * [werf](https://werf.io/) - A CI/CD tool for delivering Docker images to Kubernetes via GitOps approach, integrates with any CI systems, written in Go.
+* [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud) - Blazing-fast, cost-effective execution layer for GitLab CI/CD pipeline jobs, offering per-second billing and k8s API for runner management.
 
 ## Container
 
