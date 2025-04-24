@@ -125,6 +125,7 @@ A curated list of awesome softwares for Devops.
 * [cAdvisor](https://github.com/google/cadvisor) - cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers.
 * [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Telegraf is a server-based agent for collecting and sending all metrics and events from databases, systems, and IoT sensors. Telegraf is written in Go and compiles into a single binary with no external dependencies, and requires a very minimal memory footprint.
 * [Splunk](https://www.splunk.com/) - Splunk's core offering collects and analyzes high volumes of machine-generated data. It uses an API to connect to applications and devices.
+* [Middleware](https://middleware.io/) - A full-stack cloud observability platform to monitor your data with ease and get the right insights faster.
 
 ## Application Definition
 
