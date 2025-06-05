@@ -47,10 +47,13 @@ A curated list of awesome softwares for Devops.
 * [AWS CodePipeline](https://aws.amazon.com/codepipeline/) - AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software.
 * [AWS CodeDeploy](https://aws.amazon.com/codedeploy/) - AWS CodeDeploy is a deployment service that automates application deployments to Amazon EC2 instances, on-premises instances, or serverless Lambda functions.
 * [Drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go.
+* [werf](https://werf.io/) - A CI/CD tool for delivering Docker images to Kubernetes via GitOps approach, integrates with any CI systems, written in Go.
+* [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud) - Blazing-fast, cost-effective execution layer for GitLab CI/CD pipeline jobs, offering per-second billing and k8s API for runner management.
 
 ## Container
 
 * [Docker](https://www.docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
+* [Podman](https://podman.io) - Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode.
 * [Kubernetes](https://kubernetes.io/) - Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 * [Rancher](https://rancher.com/) - Rancher is open source software that combines everything an organization needs to adopt and run containers in production. Built on Kubernetes, Rancher makes it easy for DevOps teams to test, deploy and manage their applications.
 * [Mesos](http://mesos.apache.org/) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
@@ -59,6 +62,8 @@ A curated list of awesome softwares for Devops.
 * [Docker Machine](https://github.com/docker/machine) - Docker Machine is a tool that lets you install Docker Engine on virtual hosts, and manage the hosts with docker-machine commands.
 * [Portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io)
 * [Docker Registry](https://docs.docker.com/registry/) - Docker Trusted Registry (DTR) is a commercial product that enables complete image management workflow, featuring LDAP integration, image signing, security scanning, and integration with Universal Control Plane.
+* [Meshery](https://github.com/meshery/meshery) - Meshery is a highly extensible CNCF project enabling collaborative design and operation of cloud-native infrastructure, with Kubernetes clusters management and visualization tools.
+* [Kanvas](https://kanvas.new) - Kanvas is a collaborative designer and operator for cloud-native infrastructure, offering an intuitive interface to manage Kubernetes resources efficiently.
 
 ## IDE & Editor
 
@@ -77,6 +82,7 @@ A curated list of awesome softwares for Devops.
 * [Typora](https://typora.io/) - A markdown editor, markdown reader.
 * [MWeb](https://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App.
 * [MacDown](http://macdown.uranusjr.com/) - Markdown editor.
+* [CodeLobster](https://codelobster.com/) - A free cross-platform IDE with many plug-ins for all popular frameworks.
 
 ## Documents
 
@@ -112,10 +118,16 @@ A curated list of awesome softwares for Devops.
 
 ## Monitor
 
+* [Netdata](https://www.netdata.cloud/) - Netdata is a free monitoring solution with an open source agent that collects real-time metrics from your systems and applications, helping you monitor and troubleshoot them with ease.
 * [Zabbix](https://www.zabbix.com/) - Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
 * [Influxdb](https://www.influxdata.com/) - Open Source Time Series DB Platform for Metrics & Events (Time Series Data).
 * [Grafana](https://grafana.com/) - Data visualization & Monitoring with support for Graphite, InfluxDB, Prometheus, Elasticsearch and many more databases.
 * [Prometheus](https://prometheus.io/) - An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
+* [Node Exporter](https://prometheus.io/docs/guides/node-exporter/) - The Prometheus Node Exporter exposes a wide variety of hardware and kernel-related metrics.
+* [cAdvisor](https://github.com/google/cadvisor) - cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers.
+* [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Telegraf is a server-based agent for collecting and sending all metrics and events from databases, systems, and IoT sensors. Telegraf is written in Go and compiles into a single binary with no external dependencies, and requires a very minimal memory footprint.
+* [Splunk](https://www.splunk.com/) - Splunk's core offering collects and analyzes high volumes of machine-generated data. It uses an API to connect to applications and devices.
+* [Middleware](https://middleware.io/) - A full-stack cloud observability platform to monitor your data with ease and get the right insights faster.
 
 ## Application Definition
 
@@ -144,6 +156,8 @@ A curated list of awesome softwares for Devops.
 * [Google Cloud Platform](https://cloud.google.com/) - Build, innovate, and scale with Google Cloud Platform. Collaborate and be more productive with G Suite. See what's possible with Google Cloud.
 * [Tencent Cloud](https://intl.cloud.tencent.com/) - Empower your business with our high-performance cloud services.
 * [Huawei Cloud](https://intl.huaweicloud.com/) - Comprehensive Range of Cloud Computing Services.
+* [Kinsta](https://kinsta.com/application-hosting/) - Create and deploy web applications and databases in minutes.
+
 
 ## Logging
 
@@ -151,6 +165,7 @@ A curated list of awesome softwares for Devops.
 * [LogStash](https://www.elastic.co/products/logstash) - Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite "stash."
 * [Kibana](https://www.elastic.co/products/kibana) - Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack.
 * [Graylog](https://www.graylog.org/) - Graylog is a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine data.
+* [Filebeat](https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-overview.html) - Filebeat is a lightweight shipper for forwarding and centralizing log data.
 
 ## Service
 
@@ -185,6 +200,7 @@ A curated list of awesome softwares for Devops.
 * [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 * [Teambition](https://www.teambition.com/) - Teambition is a simple, efficient project collaboration tool where you can manage projects, track progress, store project files, and make your team work more efficient.
 * [Trello](https://trello.com/) - Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details.
+* [FadeTask](https://app.fadetask.com) - It's free kanban, like trello, just support Chinese.
 
 ## Others
 
@@ -207,3 +223,4 @@ A curated list of awesome softwares for Devops.
 * [waifu2x](http://waifu2x.udp.jp/) - Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks.
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 * [CodeLF](https://github.com/unbug/codelf) - Search over projects from GitHub, Bitbucket, GitLab to find real-world usage and variable names.
+* [Cloud 66](https://www.cloud66.com/) - DevOps as a service that helps to build, deploy and manage any application on any cloud or server.
