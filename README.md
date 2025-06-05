@@ -205,6 +205,7 @@ A curated list of awesome softwares for Devops.
 ## Others
 
 * [Splunk](https://www.splunk.com/) - Splunk Inc. turns machine data into answers with the leading platform to tackle the toughest IT, IoT and security challenges. Use Splunk to search, monitor, analyze and visualize machine data.
+* [Logit.io](https://www.logit.io/) - Logit.io provides an affordable and scalable solution for hosting ELK, Grafana & Open Distro for metrics and log analysis.
 * [Nagios](https://www.nagios.org/) - Nagios provides enterprise-class Open Source IT monitoring, network monitoring, server and applications monitoring.
 * [Monit](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-monit) - Monit is a helpful program that automatically monitors and manages server programs to ensure that they not only stay online consistently, but that the file size, checksum, or permissions are always correct.
 * [Supervisor](http://supervisord.org/) - Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
@@ -221,5 +222,5 @@ A curated list of awesome softwares for Devops.
 * [Phpspy](https://github.com/adsr/phpspy) - Low-overhead sampling profiler for PHP 7.
 * [waifu2x](http://waifu2x.udp.jp/) - Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks.
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
-* [CodeLF](https://unbug.github.io/) - Search over projects from GitHub, Bitbucket, GitLab to find real-world usage and variable names.
+* [CodeLF](https://github.com/unbug/codelf) - Search over projects from GitHub, Bitbucket, GitLab to find real-world usage and variable names.
 * [Cloud 66](https://www.cloud66.com/) - DevOps as a service that helps to build, deploy and manage any application on any cloud or server.
