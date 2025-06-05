@@ -62,6 +62,8 @@ A curated list of awesome softwares for Devops.
 * [Docker Machine](https://github.com/docker/machine) - Docker Machine is a tool that lets you install Docker Engine on virtual hosts, and manage the hosts with docker-machine commands.
 * [Portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io)
 * [Docker Registry](https://docs.docker.com/registry/) - Docker Trusted Registry (DTR) is a commercial product that enables complete image management workflow, featuring LDAP integration, image signing, security scanning, and integration with Universal Control Plane.
+* [Meshery](https://github.com/meshery/meshery) - Meshery is a highly extensible CNCF project enabling collaborative design and operation of cloud-native infrastructure, with Kubernetes clusters management and visualization tools.
+* [Kanvas](https://kanvas.new) - Kanvas is a collaborative designer and operator for cloud-native infrastructure, offering an intuitive interface to manage Kubernetes resources efficiently.
 
 ## IDE & Editor
 
