@@ -50,6 +50,11 @@ A curated list of awesome softwares for Devops.
 * [werf](https://werf.io/) - A CI/CD tool for delivering Docker images to Kubernetes via GitOps approach, integrates with any CI systems, written in Go.
 * [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud) - Blazing-fast, cost-effective execution layer for GitLab CI/CD pipeline jobs, offering per-second billing and k8s API for runner management.
 
+## Binary Artifacts
+
+* [Cloudsmith](https://cloudsmith.com/) - Modern artifact management platform with support for most common package repositories including npm, PyPI, composer, etc.
+* [Buildstash](https://buildstash.com/) - Build artifact platform designed specifically for distributed software (apps, games, embedded) with binary management, beta distribution, sign-off, and deployment.
+
 ## Container
 
 * [Docker](https://www.docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
