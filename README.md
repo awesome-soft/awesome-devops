@@ -49,6 +49,7 @@ A curated list of awesome softwares for Devops.
 * [Drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go.
 * [werf](https://werf.io/) - A CI/CD tool for delivering Docker images to Kubernetes via GitOps approach, integrates with any CI systems, written in Go.
 * [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud) - Blazing-fast, cost-effective execution layer for GitLab CI/CD pipeline jobs, offering per-second billing and k8s API for runner management.
+* [GitHub Workflows Assistant](https://github.com/puzl-cloud/github-workflow-assistant) - Bulk edit GitHub Actions workflows across repositories and branches via a UI.
 
 ## Container
 
