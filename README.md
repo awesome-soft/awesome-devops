@@ -213,6 +213,7 @@ A curated list of awesome softwares for Devops.
 * [Bitbucket](https://bitbucket.org/) - Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team.
 * [Datadog](https://www.datadoghq.com/) - Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.
 * [Statuspage](https://www.statuspage.io/) - StatusPage.io is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very own status page in minutes.
+* [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI. Aggregates status from multiple sources with instant alerts.
 * [Pendo](https://www.pendo.io/) - Pendo helps product teams understand and guide users to create product experiences that customers love.
 * [Vagrant](https://www.vagrantup.com/) - Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.
 * [PagerDuty](https://www.pagerduty.com/) - PagerDuty is a cloud computing company that produces a SaaS incident response platform for IT departments.
