@@ -103,6 +103,7 @@ A curated list of awesome softwares for Devops.
 * [AWS Api Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 * [Apiary](https://apiary.io/) - Platform for API Design, Development & Documentation.
 * [Swagger](https://swagger.io/) - Swagger aides in development across the entire API lifecycle, from design and documentation, to test and deployment.
+* [API Gateway Cost Calculator](https://apigatewaycost.com) - Estimate and compare API gateway costs across AWS API Gateway, Kong, Tyk, and Apigee by request volume.
 
 ## Storage
 
