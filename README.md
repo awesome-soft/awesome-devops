@@ -142,6 +142,7 @@ A curated list of awesome softwares for Devops.
 * [Puppet](https://puppet.com/) - Automatically deliver and operate all of your software across its entire lifecycle — simply, securely and at scale — with Puppet's modern automation.
 * [Salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale.
 * [Rudder](https://www.rudder-project.org/) - Get the latest version of Rudder for your distribution: Get Rudder. Easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance.
+* [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) - Online YAML validator, formatter and viewer with JSON Schema support for Kubernetes, Docker Compose, GitHub Actions, and more.
 
 ## APM
 
