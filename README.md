@@ -64,6 +64,7 @@ A curated list of awesome softwares for Devops.
 * [Docker Registry](https://docs.docker.com/registry/) - Docker Trusted Registry (DTR) is a commercial product that enables complete image management workflow, featuring LDAP integration, image signing, security scanning, and integration with Universal Control Plane.
 * [Meshery](https://github.com/meshery/meshery) - Meshery is a highly extensible CNCF project enabling collaborative design and operation of cloud-native infrastructure, with Kubernetes clusters management and visualization tools.
 * [Kanvas](https://kanvas.new) - Kanvas is a collaborative designer and operator for cloud-native infrastructure, offering an intuitive interface to manage Kubernetes resources efficiently.
+* [KubeStellar Console](https://console.kubestellar.io/) - Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco, OPA/Gatekeeper). CNCF Sandbox project.
 
 ## IDE & Editor
 
