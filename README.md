@@ -166,6 +166,8 @@ A curated list of awesome softwares for Devops.
 * [Kibana](https://www.elastic.co/products/kibana) - Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack.
 * [Graylog](https://www.graylog.org/) - Graylog is a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine data.
 * [Filebeat](https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-overview.html) - Filebeat is a lightweight shipper for forwarding and centralizing log data.
+* [Middleware](https://www.elastic.co/) - Eliminate blind spots with unified log monitoring. Make troubleshooting faster with AI-driven insight and total data control at a 90% savings.
+
 
 ## Service
 
