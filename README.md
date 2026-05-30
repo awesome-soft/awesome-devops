@@ -193,6 +193,7 @@ A curated list of awesome softwares for Devops.
 * [Wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool.
 * [Web Bench](http://home.tiscali.cz/~cz210552/webbench.html) - Web Bench is very simple tool for benchmarking WWW or proxy servers.
 * [Http_load](https://acme.com/software/http_load/) - http_load runs multiple http fetches in parallel, to test the throughput of a web server.
+* [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking CLI with DNSSEC, DoH/DoT, TLS timing, and resolver performance analysis.
 
 ## PM
 
