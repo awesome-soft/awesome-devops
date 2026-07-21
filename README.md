@@ -40,6 +40,7 @@ A curated list of awesome softwares for Devops.
 
 * [Jenkins](https://jenkins.io/) - Jenkins is a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Mac OS X and other Unix-like operating systems.
 * [Gitlab-ci](https://about.gitlab.com/features/gitlab-ci-cd/) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
 * [Shippable](https://www.shippable.com/) - CI, CD, and DevOps automation platform with Docker support that simplifies provisioning, building, testing, and deploying any application anywhere.
 * [Bamboo](https://www.atlassian.com/software/bamboo) - Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.
 * [Deployer](https://deployer.org/) - A deployment tool written in PHP with support for popular frameworks out of the box.
