@@ -224,3 +224,4 @@ A curated list of awesome softwares for Devops.
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 * [CodeLF](https://github.com/unbug/codelf) - Search over projects from GitHub, Bitbucket, GitLab to find real-world usage and variable names.
 * [Cloud 66](https://www.cloud66.com/) - DevOps as a service that helps to build, deploy and manage any application on any cloud or server.
+* [Monk](https://github.com/monk-io/monk-plugin) - Autonomous DevOps agent plugin for coding agents: your agent writes the app, Monk derives the deployment and runs it on your own cloud (AWS, Azure, GCP, DigitalOcean, Hetzner), handling CI/CD, scaling, monitoring and backups with 200+ integrations.
