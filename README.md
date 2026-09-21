@@ -224,3 +224,4 @@ A curated list of awesome softwares for Devops.
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 * [CodeLF](https://github.com/unbug/codelf) - Search over projects from GitHub, Bitbucket, GitLab to find real-world usage and variable names.
 * [Cloud 66](https://www.cloud66.com/) - DevOps as a service that helps to build, deploy and manage any application on any cloud or server.
+* [InfiniUm Tools](https://infinium.tools) - Free suite of DevOps and SEO utilities: DNS lookup, SSL checker, security headers audit, and AI-powered log analysis.
