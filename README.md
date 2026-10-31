@@ -128,7 +128,6 @@ A curated list of awesome softwares for Devops.
 * [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Telegraf is a server-based agent for collecting and sending all metrics and events from databases, systems, and IoT sensors. Telegraf is written in Go and compiles into a single binary with no external dependencies, and requires a very minimal memory footprint.
 * [Splunk](https://www.splunk.com/) - Splunk's core offering collects and analyzes high volumes of machine-generated data. It uses an API to connect to applications and devices.
 * [Middleware](https://middleware.io/) - A full-stack cloud observability platform to monitor your data with ease and get the right insights faster.
-
 * [PingCron](https://www.pingcron.io) - An isolated external dead-man's switch and heartbeat monitor for cron jobs, database backups, and asynchronous queue workers. Includes a native MCP connector for AI assistants.
 
 ## Application Definition
